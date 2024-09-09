@@ -1,0 +1,15 @@
+numpy
+pandas
+matplotlib.pyplot
+nltk
+sklearn.feature_extraction.text.TfidfVectorizer
+warnings 
+seaborn
+plotly.express
+WordCloud, STOPWORDS 
+sklearn.feature_extraction.text.CountVectorizer
+sklearn.model_selection.train_test_split
+sklearn.neural_network.MLPClassifier 
+sklearn.naive_bayes.MultinomialNB, BernoulliNB 
+sklearn.metrics
+plotly.express
