@@ -1,3 +1,5 @@
+Contains the Code and the Dataset used.
+
 A comprehensive approach to spam email classification using natural language processing 
 (NLP) and machine learning techniques is presented. The code begins by importing essential 
 libraries such as NumPy, Pandas, Matplotlib, NLTK, and scikit-learn for basic calculations, 
